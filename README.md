@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 ##### 🚀 Confira meus projetos no Replit e explore mais conteúdos interessantes!
 
@@ -30,25 +29,25 @@
 
 
 
-<a href="https://www.youtube.com/@mentemaker/featured">
+<a href="https://www.youtube.com/@datobatera/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
 
-<a href="https://instagram.com/mente_maker?igshid=MzNlNGNkZWQ4Mg==">
+<a href="https://instagram.com/datocarneiro?igshid=MzNlNGNkZWQ4Mg==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://replit.com/@MenteMaker">
+<a href="https://replit.com/@datocarneiro">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 </a>
 
 <p></p>
 
 <a href="https://github.com/Datocarneiro/github-readme-stats">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=Makerjunior&theme=transparent" />
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=Datocarneiro&theme=transparent" />
 </a>
 <a href="https://github.com/Datocarneiror/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Makerjunior&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Datocarneiror&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
  
