@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Jonathas Carneiro
 
-🎓 Analise e desenvolvimento de sistemas 1/5
-🚀 Programador e desenvolvedor
-📊 Certificados
-💻 Pequeno Projeto
+🎓 Analise e desenvolvimento de sistemas 1/5 <br>
+🚀 Programador e desenvolvedor<br>
+📊 Certificados<br>
+💻 Pequeno Projeto<br>
 
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 ##### 🚀 Confira meus projetos no Replit e explore mais conteúdos interessantes!
