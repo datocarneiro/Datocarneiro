@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Jonbathas Carneiro
+
+🎓 Analise e desenvolvimento de sistemas 1/5
+🚀 Programador e desenvolvedor
+📊 Certificados
+💻 Pequeno Projeto
 
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 ##### 🚀 Confira meus projetos no Replit e explore mais conteúdos interessantes!
