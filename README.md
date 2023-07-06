@@ -1,20 +1,8 @@
 ### Hi there 👋
 
 <!--
-**datocarneiro/Datocarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
-##### 🚀 Não deixe de acompanhar meu canal do YouTube e perfil no Instagram para ficar por dentro das novidades. Confira meus projetos no Replit e explore mais conteúdos interessantes!
+##### 🚀 Confira meus projetos no Replit e explore mais conteúdos interessantes!
 
 <div>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
@@ -56,10 +44,10 @@ Here are some ideas to get you started:
 
 <p></p>
 
-<a href="https://github.com/Makerjunior/github-readme-stats">
+<a href="https://github.com/Datocarneiro/github-readme-stats">
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=Makerjunior&theme=transparent" />
 </a>
-<a href="https://github.com/Makerjunior/convoychat">
+<a href="https://github.com/Datocarneiror/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Makerjunior&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
