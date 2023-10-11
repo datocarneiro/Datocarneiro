@@ -33,16 +33,15 @@
 </div>
 
 
-
 <a href="https://www.youtube.com/@datobatera/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "" />
-
 <a href="https://instagram.com/datocarneiro?igshid=MzNlNGNkZWQ4Mg==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "" />
 
 <a href="https://replit.com/@datocarneiro">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
@@ -50,10 +49,10 @@
 
 <p></p>
 
-<a href="https://github.com/Datocarneiro/github-readme-stats">
+<a href="https://github.com/datocarneiro/github-readme-stats">
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=Datocarneiro&theme=transparent" />
 </a>
-<a href="https://github.com/Datocarneiror/convoychat">
+<a href="https://github.com/datocarneiro/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Datocarneiror&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
