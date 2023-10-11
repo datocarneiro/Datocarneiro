@@ -16,7 +16,7 @@
 ## Habilidades principais:
 <!--ìcones de Linguagens -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="gabi-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
+  <img align="center" alt="dato-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
   <img align="center" alt="gabi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gabi-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" border="1px" border-color="white" alt="gabi-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
