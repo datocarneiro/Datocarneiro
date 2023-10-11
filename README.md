@@ -41,13 +41,14 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "" />
 
 <a href="https://replit.com/@datocarneiro">
-  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">  
 </a>
 
 <p></p>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "" />
 
 <a href="https://github.com/datocarneiro/github-readme-stats">
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=Datocarneiro&theme=transparent" />
