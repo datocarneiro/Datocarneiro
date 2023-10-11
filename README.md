@@ -8,26 +8,22 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 ##### 🚀 Confira meus projetos no Replit e explore mais conteúdos interessantes!
 
-<div>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
-
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
-
-<!--<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">-->
-
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
-
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60">
+## Habilidades principais:
+<div style="display: inline_block"><br>
+   <img align="center" alt="gabi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gabi-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="gabi-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
+  <img align="center" alt="gabi-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="gabi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gabi-Java" height="40" width="40" src="https://techstack-generator.vercel.app/java-icon.svg">
+  <img align="center" alt="gabi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="gabi-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
+   <img align="center" alt="gabi-Wordpress" height="40" width="40" src="https://skillicons.dev/icons?i=wordpress">
+  <img align="center" alt="gabi-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="gabi-MySQL" height="50" width="50" src="https://techstack-generator.vercel.app/mysql-icon.svg">
+  <img align="center" alt="gabi-JQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="gabi-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
 
 <h2>
 </div>
