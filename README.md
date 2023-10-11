@@ -56,19 +56,11 @@
 <br>
 <br>
 
-<a href="https://github.com/datocarneiro/github-readme-stats">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "" />
-</a>
-<a href="https://github.com/datocarneiro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
-</a>
-
+<!--Indicadores -->
 ##
 <div>
-  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Gabyperin" />
-
-
+  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=datocarneiro&show_icons=true&theme=midnight-purple" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiron&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "datocarneiro" />
 </div>
 
  
