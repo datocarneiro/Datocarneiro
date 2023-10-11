@@ -1,3 +1,7 @@
+<!--linhas dinâmicas-->
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
 ### Hi there 👋 I'm Jonathas Carneiro
 
 🎓 Analise e desenvolvimento de sistemas 2/5 <br>
@@ -8,7 +12,9 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 ##### 🚀 Confira meus projetos no Replit e explore mais conteúdos interessantes!
 
+
 ## Habilidades principais:
+<!--ìcones de Linguagens -->
 <div style="display: inline_block"><br>
   <img align="center" alt="gabi-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
   <img align="center" alt="gabi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +33,11 @@
   -->
 <h2>
 </div>
-
+  
+<!--linhas dinâmicas-->
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
 
 <a href="https://www.youtube.com/@datobatera/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
