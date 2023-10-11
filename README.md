@@ -39,6 +39,7 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
 </p>
 
+<!--Redes sociais-->
 <a href="https://www.youtube.com/@datobatera/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
@@ -47,12 +48,9 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-
 <a href="https://replit.com/@datocarneiro">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">  
 </a>
-
-<br>
 <br>
 
 <!--Indicadores -->
