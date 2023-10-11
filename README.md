@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jonathas Carneiro
 
-🎓 Analise e desenvolvimento de sistemas 1/5 <br>
+🎓 Analise e desenvolvimento de sistemas 2/5 <br>
 🚀 Programador e desenvolvedor<br>
 📊 Certificados<br>
 💻 Pequeno Projeto<br>
