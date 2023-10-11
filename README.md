@@ -17,7 +17,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
+<!--<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">-->
 
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
 
@@ -37,6 +37,8 @@
 <a href="https://www.youtube.com/@datobatera/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "" />
 
 <a href="https://instagram.com/datocarneiro?igshid=MzNlNGNkZWQ4Mg==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
