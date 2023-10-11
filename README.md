@@ -17,11 +17,10 @@
 <!--ìcones de Linguagens -->
 <div style="display: inline_block"><br>
   <img align="center" alt="dato-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
-  <img align="center" alt="gabi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gabi-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" border="1px" border-color="white" alt="gabi-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
-  <img align="center" alt="gabi-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg" style="border: 10px solid white;">
-  <img align="center" alt="gabi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="dato-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="dato-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" border="1px" border-color="white" alt="dato-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
+  <img align="center" alt="dato-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--
   <img align="center" alt="gabi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabi-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -77,7 +76,8 @@
     "
   />
 
-</picture>
+![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
