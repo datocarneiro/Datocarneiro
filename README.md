@@ -63,6 +63,14 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
 
+##
+<div>
+  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Gabyperin" />
+
+
+</div>
+
  
 
 <picture style="background-color: transparent">
