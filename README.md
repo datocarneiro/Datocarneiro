@@ -22,6 +22,8 @@
   <img align="center" alt="dato-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" border="1px" border-color="white" alt="dato-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
   <img align="center" alt="dato-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="dato-CSS" height="40" width="40" src="https://styles.redditmedia.com/t5_ir1pt/styles/communityIcon_tuv7ujd1bt7a1.jpg?width=256&s=e87023446ba0aabf325f56b64247effb710ac8a9">
+  
   <!--
   <img align="center" alt="gabi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabi-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
