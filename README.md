@@ -76,9 +76,12 @@
       https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
     "
   />
+  
 
+<!--jogo da cobrinda-->
+<!--
 ![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 
 
