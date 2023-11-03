@@ -84,18 +84,13 @@
 -->
 
 
-
-<p align="center">
-
 <!-- COntador de visitas-->
 <div align="center">
-  <br><p align="centre"><b>Você é meu visitante nº</b></p>  
+  <br>
+    <p align="center" style="color: white;"><b>Você é meu visitante nº</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{datocarneiro}/count.svg" /></p> 
   <br>
 </div>
-
-
-
 
 
 
