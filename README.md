@@ -8,8 +8,9 @@
 💻 Pequeno Projeto<br>
 
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
+<!--
 ##### 🚀 Confira meus projetos no Replit e explore mais conteúdos interessantes!
-
+-->
 
 ## Habilidades principais:
 <!--ìcones de Linguagens -->
