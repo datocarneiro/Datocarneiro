@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jonathas Carneiro
+### Ola👋 Sou Jonathas Carneiro
 
 🎓 Analise e desenvolvimento de sistemas 3/5 <br>
 🚀 Programador e desenvolvedor<br>
