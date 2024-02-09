@@ -46,9 +46,7 @@ linhas dinâmicas
 <a href="https://replit.com/@datocarneiro">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">  
 </a>
-<!--
-<a href="https://www.youtube.com/@datobatera/featured">
--->
+<a href="https://www.youtube.com//featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
 
