@@ -1,7 +1,6 @@
 ### Ola👋 Sou Jonathas Carneiro
 
 🎓 Analise e desenvolvimento de sistemas 3/5 <br>
-🚀 Programador e desenvolvedor<br>
 <a href="https://github.com/datocarneiro/Certificados">
 📊 Certificados<br>
 <a href="https://replit.com/@datocarneiro">
