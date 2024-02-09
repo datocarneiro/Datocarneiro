@@ -48,9 +48,10 @@ linhas dinâmicas
 </a>
 <!--
 <a href="https://www.youtube.com/@datobatera/featured">
+-->
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
--->
+
 <a href="https://instagram.com/datocarneiro?igshid=MzNlNGNkZWQ4Mg==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
