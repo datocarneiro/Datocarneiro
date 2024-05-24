@@ -15,10 +15,11 @@
 <!--ìcones de Linguagens -->
 <div style="display: inline_block"><br>
   <img align="center" alt="dato-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
+  <img align="center" alt="dato-python" height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
+  <img align="center" alt="dato-python" height="40" width="40" src="https://techstack-generator.vercel.app/mysql-icon.svg">
   <img align="center" alt="dato-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dato-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" border="1px" border-color="white" alt="dato-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
-  <img align="center" border="1px" border-color="white" alt="dato-github" height="60" width="60" src="[https://techstack-generator.vercel.app/github-icon]https://techstack-generator.vercel.app/github-icon.svg">
   <img align="center" alt="dato-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dato-CSS" height="40" width="40" src="https://styles.redditmedia.com/t5_ir1pt/styles/communityIcon_tuv7ujd1bt7a1.jpg?width=256&s=e87023446ba0aabf325f56b64247effb710ac8a9">
   
