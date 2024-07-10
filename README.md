@@ -3,7 +3,7 @@
 🎓 Analise e desenvolvimento de sistemas 3/5 <br>
 <a href="https://github.com/datocarneiro/Certificados">
 📊 Certificados<br>
-<a href="https://replit.com/@datocarneiro">
+<a href="https://replit.com/@datocarneiro](https://github.com/datocarneiro/Projetos">
 💻 Pequeno Projeto<br>
 
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
