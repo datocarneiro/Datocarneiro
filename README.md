@@ -22,6 +22,7 @@
   <img align="center" alt="dato-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dato-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dato-CSS" height="40" width="40" src="https://styles.redditmedia.com/t5_ir1pt/styles/communityIcon_tuv7ujd1bt7a1.jpg?width=256&s=e87023446ba0aabf325f56b64247effb710ac8a9">
+  <img align="center" alt="dato-CSS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-django-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-2970205.png?f=webp&w=256">
   
   <!--
   <img align="center" alt="gabi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
