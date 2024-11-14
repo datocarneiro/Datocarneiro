@@ -62,8 +62,8 @@ linhas dinâmicas
 <!--Indicadores -->
 ##
 <div>
-  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=datocarneiro&show_icons=true&theme=codeSTACKr" />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt = "datocarneiro" />
+  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=datocarneiro&show_icons=true&theme=vision-friendly-dark" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datocarneiro&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt = "datocarneiro" />
 </div>
 
  
