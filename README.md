@@ -84,19 +84,19 @@ linhas dinâmicas
   
 
 <!--jogo da cobrinda-->
-<!--
+
 ![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
 -->
 
 
-<!-- COntador de visitas
+ COntador de visitas
 <div align="center">
   <br>
     <p align="center" style="color: white;"><b>Você é meu visitante nº</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{datocarneiro + 100}/count.svg"*30/></p> 
   <br>
 </div>
--->
+
 
 
 
