@@ -1,9 +1,9 @@
 ### Ola👋 Sou Jonathas Carneiro
 
 🎓 Analise e desenvolvimento de sistemas 4/5 <br>
-<a href="https://github.com/datocarneiro/Certificados">
+<a href="https://github.com/">
 📊 Certificados<br>
-<a href="https://github.com/datocarneiro/Projetos">
+<a href="https://">
 💻 Pequeno Projeto<br>
 
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
@@ -92,7 +92,7 @@ linhas dinâmicas
 
 
 <!--Contador de visitas-->
-<!--
+
 <div align="center">
   <br>
     <p align="center" style="color: white;"><b>Você é meu visitante nº</b></p>  
@@ -103,7 +103,3 @@ linhas dinâmicas
 
 
 
-
-
-</h4>
--->
