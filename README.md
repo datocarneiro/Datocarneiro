@@ -1,10 +1,11 @@
 ### Ola👋 Sou Jonathas Carneiro
 
-🎓 Analise e desenvolvimento de sistemas 4/5 <br>
-<a href="https://github.com/">
-📊 Certificados<br>
-<a href="https://">
-💻 Pequeno Projeto<br>
+🎓 Analise e desenvolvimento de sistemas 5/5 <br>
+
+📊 [Certificados](https://github.com/datocarneiro/Certificados) <br>
+
+💻 [Pequeno Projeto](https://github.com/datocarneiro/Resumos-de-Projetos)
+
 
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
 <!--
